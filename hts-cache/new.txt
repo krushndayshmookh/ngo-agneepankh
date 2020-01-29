@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+20:49:55	66664/66664	---MCZ	200	added ('OK')	text/html	etag:W/%225db08155-10468%22	http://themesindustry.com/html/trax-2020/single-index-video.html	C:/Users/Tushar/Desktop/Extra/NGO-WEBSITE/themesindustry.com/html/trax-2020/single-index-video.html	(from )
+20:49:56	81/81	---M--	200	added ('OK')	text/plain	etag:%22565d6c7d-51%22	http://themesindustry.com/robots.txt		(from )
