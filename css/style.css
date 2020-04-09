@@ -256,9 +256,9 @@ img.pull-right {
 .btn {
   font-size: 16px;
   font-weight: 700;
-  color: #fff;
+  color: #ff9800;
   text-transform: uppercase;
-  background: #ff007a;
+  background: #ffffff;
   height: 50px;
   padding: 0 35px;
   line-height: 50px;
@@ -277,7 +277,7 @@ img.pull-right {
     outline: none; }
   .btn:hover {
     color: #fff;
-    background: #d20055;
+    background: #00c1c1;
     -webkit-box-shadow: 0px 20px 30px 0px rgba(0, 0, 0, 0.15);
     box-shadow: 0px 20px 30px 0px rgba(0, 0, 0, 0.15); }
   .btn.fill {
