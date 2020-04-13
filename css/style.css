@@ -1031,7 +1031,8 @@ img.pull-right {
       intro area
 ===========================*/
 .ts-intro {
-  padding: 80px 0 60px; }
+  padding: 80px 0 60px;
+}
 
 .intro-line {
   background-repeat: no-repeat;
