@@ -1444,6 +1444,12 @@ img.pull-right {
       background-image: -webkit-radial-gradient(50% 50%, circle closest-side, #57c6e1 0%, #b49fda 0%, #7ac5d8 0%, #eea2a2 0%, #b1aff0 0%, #836df0 100%);
       background-image: -o-radial-gradient(50% 50%, circle closest-side, #57c6e1 0%, #b49fda 0%, #7ac5d8 0%, #eea2a2 0%, #b1aff0 0%, #836df0 100%);
       background-image: radial-gradient(50% 50%, circle closest-side, #57c6e1 0%, #b49fda 0%, #7ac5d8 0%, #eea2a2 0%, #b1aff0 0%, #836df0 100%); }
+      .ts-schedule-info ul li:nth-child(4) a {
+        top: 255px;
+        left: 160px;
+        background-image: -webkit-linear-gradient(340deg, #fc6076 0%, #ff9a44 100%);
+        background-image: -o-linear-gradient(340deg, #fc6076 0%, #ff9a44 100%);
+        background-image: linear-gradient(110deg, #fc6076 0%, #ff9a44 100%); }
     .ts-schedule-info ul li a.active {
       -webkit-box-shadow: 0px 20px 30px 0px rgba(0, 0, 0, 0.12);
       box-shadow: 0px 20px 30px 0px rgba(0, 0, 0, 0.12);
