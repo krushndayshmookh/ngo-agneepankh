@@ -381,9 +381,9 @@ img.pull-right {
     position: absolute;
     left: 0;
     top: 0;
-    background-image: -webkit-linear-gradient(306deg, #e65100 0%, #e65100 51%, #ff9800 100%, #ff057c 100%);
-    background-image: -o-linear-gradient(306deg, #e65100 0%, #e65100 51%, #ff9800 100%, #ff057c 100%);
-    background-image: linear-gradient(144deg, #e65100 0%, #e65100 51%, #ff9800 100%, #ff057c 100%);
+    background-image: -webkit-linear-gradient(306deg, #e65100 0%, #e65100 51%, #ff9800 100%, #ffa000 100%);
+    background-image: -o-linear-gradient(306deg, #e65100 0%, #e65100 51%, #ff9800 100%, #ffa000 100%);
+    background-image: linear-gradient(144deg, #e65100 0%, #e65100 51%, #ff9800 100%, #ffa000 100%);
     width: 100%;
     height: 100%;
     content: '';
@@ -427,7 +427,7 @@ img.pull-right {
   border: 1px solid transparent; }
 
 .color-primary {
-  color: #ff057c !important; }
+  color: #ffa000 !important; }
 
 /*  */
 /*==========================
@@ -1359,10 +1359,10 @@ img.pull-right {
     width: 100%;
     height: 100%;
     content: '';
-    background-image: -webkit-gradient(linear, left top, right top, from(#e65100), color-stop(51%, #e65100), color-stop(100%, #ff9800), to(#ff057c));
-    background-image: -webkit-linear-gradient(left, #e65100 0%, #e65100 51%, #ff9800 100%, #ff057c 100%);
-    background-image: -o-linear-gradient(left, #e65100 0%, #e65100 51%, #ff9800 100%, #ff057c 100%);
-    background-image: linear-gradient(90deg, #e65100 0%, #e65100 51%, #ff9800 100%, #ff057c 100%);
+    background-image: -webkit-gradient(linear, left top, right top, from(#e65100), color-stop(51%, #e65100), color-stop(100%, #ff9800), to(#ffa000));
+    background-image: -webkit-linear-gradient(left, #e65100 0%, #e65100 51%, #ff9800 100%, #ffa000 100%);
+    background-image: -o-linear-gradient(left, #e65100 0%, #e65100 51%, #ff9800 100%, #ffa000 100%);
+    background-image: linear-gradient(90deg, #e65100 0%, #e65100 51%, #ff9800 100%, #ffa000 100%);
     opacity: 0.302; }
   .ts-exp-wrap .ts-exp-content {
     max-width: 560px;
@@ -1787,9 +1787,9 @@ img.pull-right {
     background: #ebedf4;
     margin-bottom: 10px; }
     .ts-pricing-box .ts-progress .ts-progress-inner {
-      background-image: -webkit-linear-gradient(306deg, #e65100 0%, #e65100 51%, #ff9800 100%, #ff057c 100%);
-      background-image: -o-linear-gradient(306deg, #e65100 0%, #e65100 51%, #ff9800 100%, #ff057c 100%);
-      background-image: linear-gradient(144deg, #e65100 0%, #e65100 51%, #ff9800 100%, #ff057c 100%);
+      background-image: -webkit-linear-gradient(306deg, #e65100 0%, #e65100 51%, #ff9800 100%, #ffa000 100%);
+      background-image: -o-linear-gradient(306deg, #e65100 0%, #e65100 51%, #ff9800 100%, #ffa000 100%);
+      background-image: linear-gradient(144deg, #e65100 0%, #e65100 51%, #ff9800 100%, #ffa000 100%);
       height: 100%; }
   .ts-pricing-box .promotional-code .promo-code-text {
     font-weight: 400;
