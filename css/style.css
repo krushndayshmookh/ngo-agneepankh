@@ -2023,9 +2023,13 @@ img.pull-right {
       sponsors
 ============================*/
 .ts-intro-sponsors {
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center center; }
+  /* background-repeat: no-repeat; */
+background-image: -webkit-gradient(linear, left top, right top, from(#e65100), color-stop(51%, #e65100), color-stop(100%, #ff9800), to(#ffa000));
+background-image: -webkit-linear-gradient(left, #e65100 0%, #e65100 51%, #ff9800 100%, #ffa000 100%);
+background-image: -o-linear-gradient(left, #e65100 0%, #e65100 51%, #ff9800 100%, #ffa000 100%);
+background-image: linear-gradient(90deg, #e65100 0%, #e65100 51%, #ff9800 100%, #ffa000 100%);  
+opacity: 0.902;  
+background-position: center center; }
   .ts-intro-sponsors .sponsors-logo img {
     margin: 0 38px 50px; }
 
