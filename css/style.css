@@ -381,9 +381,9 @@ img.pull-right {
     position: absolute;
     left: 0;
     top: 0;
-    background-image: -webkit-linear-gradient(306deg, #321575 0%, #8d0b93 51%, #ff0066 100%, #ff057c 100%);
-    background-image: -o-linear-gradient(306deg, #321575 0%, #8d0b93 51%, #ff0066 100%, #ff057c 100%);
-    background-image: linear-gradient(144deg, #321575 0%, #8d0b93 51%, #ff0066 100%, #ff057c 100%);
+    background-image: -webkit-linear-gradient(306deg, #e65100 0%, #e65100 51%, #ff9800 100%, #ff057c 100%);
+    background-image: -o-linear-gradient(306deg, #e65100 0%, #e65100 51%, #ff9800 100%, #ff057c 100%);
+    background-image: linear-gradient(144deg, #e65100 0%, #e65100 51%, #ff9800 100%, #ff057c 100%);
     width: 100%;
     height: 100%;
     content: '';
@@ -526,7 +526,7 @@ img.pull-right {
     line-height: 40px;
     padding: 0 25px; }
     .header.h-transparent2 .ticket-btn.btn:hover {
-      background: #ff007a;
+      background: #ff9800;
       color: #fff; }
   .header.h-transparent2.sticky {
     background: rgba(255, 255, 255, 0.95);
@@ -1359,10 +1359,10 @@ img.pull-right {
     width: 100%;
     height: 100%;
     content: '';
-    background-image: -webkit-gradient(linear, left top, right top, from(#321575), color-stop(51%, #8d0b93), color-stop(100%, #ff0066), to(#ff057c));
-    background-image: -webkit-linear-gradient(left, #321575 0%, #8d0b93 51%, #ff0066 100%, #ff057c 100%);
-    background-image: -o-linear-gradient(left, #321575 0%, #8d0b93 51%, #ff0066 100%, #ff057c 100%);
-    background-image: linear-gradient(90deg, #321575 0%, #8d0b93 51%, #ff0066 100%, #ff057c 100%);
+    background-image: -webkit-gradient(linear, left top, right top, from(#e65100), color-stop(51%, #e65100), color-stop(100%, #ff9800), to(#ff057c));
+    background-image: -webkit-linear-gradient(left, #e65100 0%, #e65100 51%, #ff9800 100%, #ff057c 100%);
+    background-image: -o-linear-gradient(left, #e65100 0%, #e65100 51%, #ff9800 100%, #ff057c 100%);
+    background-image: linear-gradient(90deg, #e65100 0%, #e65100 51%, #ff9800 100%, #ff057c 100%);
     opacity: 0.302; }
   .ts-exp-wrap .ts-exp-content {
     max-width: 560px;
@@ -1621,9 +1621,9 @@ img.pull-right {
     -ms-border-radius: 50%;
     -webkit-box-shadow: 19.799px 19.799px 40px 0px rgba(0, 0, 0, 0.1);
     box-shadow: 19.799px 19.799px 40px 0px rgba(0, 0, 0, 0.1);
-    background-image: -webkit-linear-gradient(315deg, #82e182 0%, #0acbf5 100%);
-    background-image: -o-linear-gradient(315deg, #82e182 0%, #0acbf5 100%);
-    background-image: linear-gradient(135deg, #82e182 0%, #0acbf5 100%); }
+    background-image: -webkit-linear-gradient(315deg, #ff9800 0%, #e65100 100%);
+    background-image: -o-linear-gradient(315deg, #ff9800 0%, #e65100 100%);
+    background-image: linear-gradient(135deg, #ff9800 0%, #e65100 100%); }
   .schedule-tabs-item .schedule-listing-item:before {
     position: absolute;
     top: -30px;
@@ -1715,9 +1715,9 @@ img.pull-right {
       position: absolute;
       content: '';
       background-color: transparent;
-      background-image: -webkit-linear-gradient(306deg, rgba(68, 63, 198, 0.85) 0%, #ff007a 60%);
-      background-image: -o-linear-gradient(306deg, rgba(68, 63, 198, 0.85) 0%, #ff007a 60%);
-      background-image: linear-gradient(144deg, rgba(68, 63, 198, 0.85) 0%, #ff007a 60%);
+      background-image: -webkit-linear-gradient(306deg, rgba(68, 63, 198, 0.85) 0%, #ff9800 60%);
+      background-image: -o-linear-gradient(306deg, rgba(68, 63, 198, 0.85) 0%, #ff9800 60%);
+      background-image: linear-gradient(144deg, rgba(68, 63, 198, 0.85) 0%, #ff9800 60%);
       opacity: .95;
       -webkit-transition: 0.3s;
       -o-transition: 0.3s;
@@ -1787,9 +1787,9 @@ img.pull-right {
     background: #ebedf4;
     margin-bottom: 10px; }
     .ts-pricing-box .ts-progress .ts-progress-inner {
-      background-image: -webkit-linear-gradient(306deg, #321575 0%, #8d0b93 51%, #ff0066 100%, #ff057c 100%);
-      background-image: -o-linear-gradient(306deg, #321575 0%, #8d0b93 51%, #ff0066 100%, #ff057c 100%);
-      background-image: linear-gradient(144deg, #321575 0%, #8d0b93 51%, #ff0066 100%, #ff057c 100%);
+      background-image: -webkit-linear-gradient(306deg, #e65100 0%, #e65100 51%, #ff9800 100%, #ff057c 100%);
+      background-image: -o-linear-gradient(306deg, #e65100 0%, #e65100 51%, #ff9800 100%, #ff057c 100%);
+      background-image: linear-gradient(144deg, #e65100 0%, #e65100 51%, #ff9800 100%, #ff057c 100%);
       height: 100%; }
   .ts-pricing-box .promotional-code .promo-code-text {
     font-weight: 400;
