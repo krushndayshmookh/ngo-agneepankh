@@ -1444,9 +1444,9 @@ img.pull-right {
       top: 100px;
       left: auto;
       right: 0;
-      background-image: -webkit-radial-gradient(50% 50%, circle closest-side, #57c6e1 0%, #b49fda 0%, #7ac5d8 0%, #eea2a2 0%, #b1aff0 0%, #836df0 100%);
-      background-image: -o-radial-gradient(50% 50%, circle closest-side, #57c6e1 0%, #b49fda 0%, #7ac5d8 0%, #eea2a2 0%, #b1aff0 0%, #836df0 100%);
-      background-image: radial-gradient(50% 50%, circle closest-side, #57c6e1 0%, #b49fda 0%, #7ac5d8 0%, #eea2a2 0%, #b1aff0 0%, #836df0 100%); }
+      background-image: -webkit-radial-gradient(50% 50%, circle closest-side, #ffa000 0%, #ff9800 0%, #ffa000 0%, #eea2a2 0%, #ff9800 0%, #ff9a44 100%);
+      background-image: -o-radial-gradient(50% 50%, circle closest-side, #ffa000 0%, #ff9800 0%, #ffa000 0%, #eea2a2 0%, #ff9800 0%, #ff9a44 100%);
+      background-image: radial-gradient(50% 50%, circle closest-side, #ffa000 0%, #ff9800 0%, #ffa000 0%, #eea2a2 0%, #ff9800 0%, #ff9a44 100%); }
       .ts-schedule-info ul li:nth-child(4) a {
         top: 255px;
         left: 160px;
@@ -2458,9 +2458,9 @@ background-position: center center; }
   background-image: linear-gradient(110deg, #fc6076 0%, #ff9a44 100%); }
 
 .outcome-item:nth-of-type(2) .ts-single-outcome {
-  background-image: -webkit-radial-gradient(50% 50%, circle closest-side, #57c6e1 0%, #b49fda 0%, #7ac5d8 0%, #eea2a2 0%, #b1aff0 0%, #836df0 100%);
-  background-image: -o-radial-gradient(50% 50%, circle closest-side, #57c6e1 0%, #b49fda 0%, #7ac5d8 0%, #eea2a2 0%, #b1aff0 0%, #836df0 100%);
-  background-image: radial-gradient(50% 50%, circle closest-side, #57c6e1 0%, #b49fda 0%, #7ac5d8 0%, #eea2a2 0%, #b1aff0 0%, #836df0 100%); }
+  background-image: -webkit-radial-gradient(50% 50%, circle closest-side, #ffa000 0%, #ff9800 0%, #ffa000 0%, #eea2a2 0%, #ff9800 0%, #ff9a44 100%);
+  background-image: -o-radial-gradient(50% 50%, circle closest-side, #ffa000 0%, #ff9800 0%, #ffa000 0%, #eea2a2 0%, #ff9800 0%, #ff9a44 100%);
+  background-image: radial-gradient(50% 50%, circle closest-side, #ffa000 0%, #ff9800 0%, #ffa000 0%, #eea2a2 0%, #ff9800 0%, #ff9a44 100%); }
 
 .outcome-item:nth-of-type(3) .ts-single-outcome {
   background-image: -webkit-linear-gradient(135deg, #22ffa4 0%, #43c47a 49%, #10ae23 100%);
