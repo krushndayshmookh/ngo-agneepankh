@@ -1422,12 +1422,12 @@ img.pull-right {
       left: 0;
       top: 0;
       z-index: 1;
-      color: #fff;
+      color: #ffffff;
       padding: 100px 0; }
       .ts-schedule-info ul li a h3 {
-        font-size: 30px;
+        font-size: 20px;
         font-weight: 700;
-        color: #fff;
+        color: #ffffff;
         opacity: .5; }
       .ts-schedule-info ul li a span {
         text-transform: uppercase;
