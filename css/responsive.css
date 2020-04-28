@@ -156,10 +156,12 @@ tab device
     min-height: 215px; }
     .ts-schedule-info ul li a {
       position: relative;
-      padding: 70px 0;
-      width: 200px;
-      height: 200px;
-      margin: 0 8px; }
+      padding: 72px 0;
+      width: 210px;
+      height: 210px;
+      margin: 0 8px;
+     }
+
     .ts-schedule-info ul li:nth-child(1) a {
       left: 0;
       top: 0; }
@@ -470,15 +472,15 @@ small device /mobile sm and large
     .ts-schedule-info ul {
       min-height: 150px; }
       .ts-schedule-info ul li a {
-        width: 100px;
-        height: 100px;
-        padding: 35px 0; }
+        width: 150px;
+        height: 150px;
+        padding: 50px 0; }
         .ts-schedule-info ul li a h3 {
-          font-size: 15px;
+          font-size: 16px;
           margin-bottom: 0; }
         .ts-schedule-info ul li a span {
           text-transform: capitalize;
-          font-size: 12px; }
+          font-size: 16px; }
       .ts-schedule-info ul li:nth-child(1) a {
         top: 30px; }
       .ts-schedule-info ul li:nth-child(2) a {
@@ -488,9 +490,10 @@ small device /mobile sm and large
         left: 160px;
         right: auto; }
         .ts-schedule-info ul li:nth-child(4) a {
-          top: 75px;
+          top: 120px;
           left: 80px;
-          right: auto; }
+          right: auto; 
+        }
   .schedule-listing {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
