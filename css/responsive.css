@@ -173,7 +173,9 @@ tab device
       top: 0; }
       .ts-schedule-info ul li:nth-child(4) a {
         left: 0;
-        top: 0; } 
+        top: 0;
+      margin-top: 1rem;
+    margin-left: 15rem; } 
   .ts-pricing-item {
     margin-top: 85px; }
   .ts-pricing {
@@ -474,7 +476,9 @@ small device /mobile sm and large
       .ts-schedule-info ul li a {
         width: 150px;
         height: 150px;
-        padding: 50px 0; }
+        padding: 50px 0;
+        margin-left: 90px;
+       }
         .ts-schedule-info ul li a h3 {
           font-size: 16px;
           margin-bottom: 0; }
