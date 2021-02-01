@@ -548,7 +548,8 @@ small device /mobile sm and large
   .newsletter-form {
     padding: 0 20px; }
   .ts-footer {
-    padding: 290px 0 60px; }
+  padding-left: 20px;
+ }
   .ts-footer.ts-footer-item .newsletter-form {
     margin-top: 40px; }
   .ts-footer.ts-footer-item .footer-menu,
