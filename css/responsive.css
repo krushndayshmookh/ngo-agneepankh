@@ -186,7 +186,14 @@ tab device
   .speaker-shap {
     display: none; }
   .ts-funfact {
-    padding: 60px 0 40px; }
+    padding: 60px 0 40px;}
+  .ts-single-funfact {
+    padding-right: 0;
+    text-align: center;
+    margin-bottom: 30px; }
+  .ts-single-funfact:before {
+    margin: auto;
+    right: 0; }
   .ts-single-funfact {
     margin-bottom: 30px; }
   .ts-blog {
@@ -428,7 +435,7 @@ small device /mobile sm and large
     .outcome-content .outcome-img img {
       width: 100%; }
   .ts-funfact {
-    padding: 60px 0 40px; }
+    padding: 60px 0 40px;}
   .ts-single-funfact {
     padding-right: 0;
     text-align: center;
